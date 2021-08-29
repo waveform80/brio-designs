@@ -49,9 +49,9 @@
      inkscape:bbox-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-midpoints="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="333.62749"
-     inkscape:cy="367.30476"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="737.67459"
+     inkscape:cy="487.71808"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -2315,5 +2315,36 @@
          x="106.38275"
          y="452.39557"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Ume Gothic';-inkscape-font-specification:'Ume Gothic';text-align:start;writing-mode:lr-tb;text-anchor:start">N</tspan></text>
+  </g>
+  <g
+     id="g1262">
+    <rect
+       y="690.65942"
+       x="886.71185"
+       height="112.42995"
+       width="340.47186"
+       id="rect1243"
+       style="fill:#faff0b;fill-opacity:1;stroke-width:1.875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text1237"
+       y="715.99548"
+       x="898.37549"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+       xml:space="preserve"><tspan
+         style="font-size:24px;stroke-width:0.75"
+         y="715.99548"
+         x="898.37549"
+         id="tspan1235"
+         sodipodi:role="line">The &quot;N&quot; pieces go up and</tspan><tspan
+         id="tspan1239"
+         style="font-size:24px;stroke-width:0.75"
+         y="753.49548"
+         x="898.37549"
+         sodipodi:role="line">down to the bridge's level;</tspan><tspan
+         id="tspan1241"
+         style="font-size:24px;stroke-width:0.75"
+         y="790.99548"
+         x="898.37549"
+         sodipodi:role="line">the &quot;D&quot; piece is flat</tspan></text>
   </g>
 </svg>
